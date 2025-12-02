@@ -1,4 +1,4 @@
-# QEECAA
+# QEEECAA
 Code Archive for Vohra (2025)
 Author: Sarva Vohra
 Email: sarva.vohra.research@gmail.com
